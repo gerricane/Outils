@@ -1,2 +1,2 @@
 # Outils
- Quelque petits outils pour me facilité les taches
+ Quelque petits outils pour me faciliter les taches
