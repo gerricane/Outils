@@ -1,7 +1,9 @@
 from PyPDF2 import PdfFileReader
 from PyPDF2 import PdfFileWriter
+from art import *
 import os
 
+tprint("AnyPagePDF","random")
 
 path = "c:/TMP/test/PDF/"
 page_debut = 0
