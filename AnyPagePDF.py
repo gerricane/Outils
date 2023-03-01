@@ -3,7 +3,7 @@ from PyPDF2 import PdfFileWriter
 import os
 
 
-path = ("c:/TMP/test/PDF/")
+path = "c:/TMP/test/PDF/"
 page_debut = 0
 page_fin = 1
 path_output = input("Donnez un nom de fichier de sortie, sans l'extension .pdf: ")
