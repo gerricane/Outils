@@ -1,5 +1,5 @@
 # Tools
-** *AnyPagePDF*** :
+***AnyPagePDF*** :
 
 `pip install art PyPDF2`
 
